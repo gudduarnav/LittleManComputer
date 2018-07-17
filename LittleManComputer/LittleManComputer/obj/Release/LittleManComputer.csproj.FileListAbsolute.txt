@@ -1,0 +1,9 @@
+E:\ArnavPrograms\visualcsharp\vm\LittleManComputer\LittleManComputer\bin\Release\LittleManComputer.exe
+E:\ArnavPrograms\visualcsharp\vm\LittleManComputer\LittleManComputer\bin\Release\LittleManComputer.pdb
+E:\ArnavPrograms\visualcsharp\vm\LittleManComputer\LittleManComputer\obj\Release\LittleManComputer.FormHelp.resources
+E:\ArnavPrograms\visualcsharp\vm\LittleManComputer\LittleManComputer\obj\Release\LittleManComputer.FormInbox.resources
+E:\ArnavPrograms\visualcsharp\vm\LittleManComputer\LittleManComputer\obj\Release\LittleManComputer.FormLMC.resources
+E:\ArnavPrograms\visualcsharp\vm\LittleManComputer\LittleManComputer\obj\Release\LittleManComputer.Properties.Resources.resources
+E:\ArnavPrograms\visualcsharp\vm\LittleManComputer\LittleManComputer\obj\Release\LittleManComputer.csproj.GenerateResource.Cache
+E:\ArnavPrograms\visualcsharp\vm\LittleManComputer\LittleManComputer\obj\Release\LittleManComputer.exe
+E:\ArnavPrograms\visualcsharp\vm\LittleManComputer\LittleManComputer\obj\Release\LittleManComputer.pdb
